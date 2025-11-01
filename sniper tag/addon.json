@@ -1,0 +1,15 @@
+{
+	"title": "Sniper Tag",
+	"type": "gamemode",
+	"tags": [
+		"fun",
+		"roleplay",
+		"pvp"
+	],
+	"ignore": [
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		".git*"
+	]
+}
